@@ -87,11 +87,11 @@ Can Set Presets:Uncheck
 ```
 
 ### Add camera or edit existing
-** General **
+**General**
 ```
 Source Type: Ffmpeg
 ```
-** Source **
+**Source**
 
 ```
 Source Path: rtsp://username:password@IP_CAM_ADDRESS:554/h264_hd.sdp
@@ -101,7 +101,7 @@ Capture Width (pixels): 1280
 Capture Height (pixels): 720
 ```
 
-** Control **
+**Control**
 
 ```
 Controllable: Check

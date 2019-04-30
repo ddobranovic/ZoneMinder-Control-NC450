@@ -8,7 +8,7 @@
 ### Add protocol file NC450.pm to ZoneMinder
 ```
 cd /usr/share/perl5/ZoneMinder/Control/
-wget https://github.com/
+wget https://raw.githubusercontent.com/ddobranovic/ZoneMinder-Control-NC450/master/NC450.pm
 chmod +x ./NC450.pm
 ```
 
